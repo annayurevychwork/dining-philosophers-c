@@ -26,4 +26,5 @@ The project implements a deadlock-free and livelock-free algorithm to simulate f
 
 ## 📸 Output Demonstration
 Below is a snapshot of the terminal output, demonstrating the asynchronous execution of threads. You can observe philosophers arriving, thinking, acquiring forks, eating, and releasing them back to the table without entering a deadlock.
+
 <img src="./screenshots/scr.png" width="500" />
